@@ -30,7 +30,8 @@ hr {
 #liveInvite {
   width: 500px;
   height: 650px;
-  background-color:#F5F7FC;
+  background-image: url(https://cdn1.vectorstock.com/i/1000x1000/44/70/abstract-rose-gold-glitter-background-with-polka-vector-21674470.jpg);
+  background-color: #F5F7FC;
   text-align: center;
   font-family: Helvetica;
   border-style: double;
